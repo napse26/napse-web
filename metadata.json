@@ -1,0 +1,8 @@
+{
+  "name": "NAPSE – Leading IT Solutions & Software Development Services",
+  "description": "NAPSE Digital provides tailored IT solutions, cybersecurity, cloud managed services, and software development turning technology into your competitive advantage.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

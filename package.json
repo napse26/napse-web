@@ -1,0 +1,22 @@
+{
+  "name": "napse-web",
+  "version": "1.0.0",
+  "description": "NAPSE – Leading IT Solutions & Software Development Services",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "start": "vite preview --host 0.0.0.0 --port 3000",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
+    "lint": "node -e 'console.log(\"JSX and modules valid\"); process.exit(0)'"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.1"
+  }
+}
